@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
-
+# Setup Configuration for packaging and distributing
 setup(
-    name='quicktrack4115',
+    name='quicktrack4115', #Library name
     version='0.1.0',
     packages=find_packages(),
     author='Mrunal',
